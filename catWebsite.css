@@ -1,0 +1,73 @@
+
+body {
+    background-image: url("img/catbackground.jpg");
+    background-size: contain;
+    font-family: 'Lilita One';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 60vh;
+    padding: 20px;
+    background: white;
+    box-shadow: 1px 1px 5px rgb(98, 96, 99);
+}
+
+h1 {
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, #eeaeca 0%, rgba(255,251,223,1) 100%);
+    padding: 20px;
+    border-radius: 0.5em;
+    color: black;
+    box-shadow: 1px 1px 5px rgb(98, 96, 99);
+    font-size: 40px;
+}
+
+button {
+    display: block;
+    background: rgb(238,174,202);
+    margin: 20px;
+    padding: 10px;
+    border: transparent;
+    border-radius: 0.5em;
+    box-shadow: 1px 1px 5px rgb(98, 96, 99);
+    font-size: 20px;
+    font-family: 'Lilita One';
+}
+
+button:hover {
+    background: rgba(255,251,223,1);
+    transition-duration: 0.3s;
+}
+
+
+footer {
+    background-color: rgb(98, 96, 99);
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    font-family: Poppins;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 0.1em;
+    opacity: 0.8;
+}
+
+@media (max-width: 700px) {
+
+    h1 {
+        font-size: 30px;
+    }
+
+    img {
+        width: 80vw;
+        height: auto;
+        padding: 20px;
+    }
+}
