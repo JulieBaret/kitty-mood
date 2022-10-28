@@ -1,7 +1,7 @@
 # Welcome to Kitty-Mood 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 
-> This singlepage website displays random cat pictures as you refresh the page thanks to an API called thecatapi.
+> This responsive website displays random cat pictures as you refresh the page thanks to an API called thecatapi.
 
 ## Author
 
@@ -10,9 +10,12 @@
 * Github: [@JulieBaret](https://github.com/JulieBaret)
 * LinkedIn: [@juliebaret](https://linkedin.com/in/juliebaret)
 
-## Show your support
+## Screenshots
+**Desktop**
+![desktop screenshot](/img/screens/screen1.png)
 
-Give a ⭐️ if this project helped you!
+**Mobile**
+![mobile screenshot](/img/screens/screen2.png)
 
 
 ***
