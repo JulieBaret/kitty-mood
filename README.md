@@ -3,6 +3,8 @@
 
 > This responsive website displays random cat pictures as you refresh the page thanks to an API called thecatapi.
 
+**Visit here: [juliebaret.github.io/kitty-mood](https://juliebaret.github.io/kitty-mood/)**
+
 ## Author
 
 👤 **Julie Baret**
